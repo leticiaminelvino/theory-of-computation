@@ -1,0 +1,21 @@
+input:
+[{}]
+(     (     )       )
+(
+
+[     (       {})]            
+({})
+[[[([])]]]
+
+output:
+casada e incorreta
+casada e correta
+nao casada
+casada e correta
+casada e incorreta
+casada e incorreta
+casada e incorreta
+{[]}
+{[()]}
+{()}
+[[[[()]]]]
