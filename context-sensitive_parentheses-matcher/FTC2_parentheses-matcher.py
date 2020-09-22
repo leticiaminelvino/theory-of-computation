@@ -84,7 +84,6 @@ while (string != ''):
         print('nao casada')
     string = str(input())
 
-
 for incorrect in matched_and_incorrect_strings:
     correct = fix_it(incorrect)
     print(correct)
